@@ -3,6 +3,3 @@ testasdasdasd
 줄추가
 
 readme.md
-
-?추가
-동시 2차수정
